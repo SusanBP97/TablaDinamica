@@ -173,6 +173,7 @@ CREATE TABLE [dbo].[AN_TAB_CCOSTO](
 ) ON [PRIMARY]
 GO
 
+
 CREATE TABLE [dbo].[AN_TAB_PUEST](
 	[PUESTO] [varchar](4) NOT NULL,
 	[NOM_PUESTO] [varchar](40) NULL,
